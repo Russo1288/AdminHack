@@ -1,3 +1,4 @@
+manager/
 administrator/index.brf
 administrator/login.brf
 nsw/admin/login.brf
